@@ -89,7 +89,7 @@ aside {
 
 #chef {
     width: 200px;
-    margin-top: 480px;
+    margin-top: 270px;
 }
 
 section {
@@ -176,3 +176,113 @@ footer {
     height: 50%;
 }
 
+#misi {
+    font-size: 40px;
+    color: #C0B283;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#visi {
+    font-size: 40px;
+    color: #C0B283;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+}
+
+#imgv {
+    width: 500px;
+    margin-left: 340px;
+}
+
+#imgm {
+    width: 500px;
+    margin-left: 340px;
+}
+
+#hist {
+    text-align: center;
+    font-size: 50px;
+    color: #C0B283;
+    margin-top: 50px;
+}
+
+#h {
+    text-align: center;
+    font-size: 27px;
+    margin-top: 25px;
+    padding: 20px;
+}
+
+#histo {
+    margin-left: 350px;
+}
+
+
+
+
+label {
+    display:block;
+    margin-top:20px;
+    letter-spacing:1px;
+    font-size: 30px;
+    color: white;
+}
+ 
+ 
+form {
+    margin:0 auto;
+    width:400px;
+    border: black 1px solid;
+    padding: 50px;
+    margin-top: 150px;
+    background-color: #373737;
+}
+ 
+input, textarea {
+    width:380px;
+    height:27px;
+    background:#C0B283;
+    border:2px solid #f6f6f6;
+    padding:10px;
+    margin-top:5px;
+    font-size:20px;
+    color:#ffffff;
+}
+ 
+textarea {
+    height:150px;
+}
+ 
+#submit {
+    width:85px;
+    height:35px;
+    border:none;
+    margin-top:20px;
+    cursor:pointer;
+}
+
+
+#icop {
+    width: 75px;
+    margin-left: 30px;
+}
+
+#icon {
+    width: 75px;
+    margin-left: 30px;
+}
+
+#icoh {
+    width: 75px;
+    margin-left: 30px;
+}
+
+#icoc {
+    width: 75px;
+    margin-left: 30px;
+}
